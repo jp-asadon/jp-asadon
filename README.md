@@ -8,8 +8,9 @@ I'm passionate about turning raw data into meaningful insights and building effi
 
 ## 🚀 About Me
 
-- 💡 Currently exploring: **Data Engineering**, **SQL optimization**, and **ETL pipeline design**
-- 🛠 Familiar with: Python, SQL, Java, C++, Arduino, Git
+- 🎓 **BS Computer Engineering**, University of the East – Manila
+- 💡 Currently exploring: **Data Engineering**, **Data Science**, **Data Analysis**, & **SQL optimization**
+- 🛠 Familiar with: Python, SQL, Java, C++, Arduino, Git, PowerApps and PowerAutomate, Tableau
 - 📊 Love working on: Real-world datasets, performance tuning, and data visualization
 - 🎯 Goal: Become a skilled data engineer focused on building scalable data systems
 - 🧠 Always learning: Apache Airflow, dbt, cloud data tools (GCP, AWS), and Docker
@@ -36,7 +37,8 @@ Here are a few projects that highlight what I do:
 - 📌 [**SAT Score Analysis**](https://github.com/jp-asadon/sat_scores)  
   Cleaned and analyzed NYC SAT data from Kaggle. Includes insights like top boroughs in verbal scores, racial distribution, average scores by borough, and school enrollment statistics.
 - 📌 [**Strawberry Disease Detection with YOLOv5 + ROS2**](https://github.com/ianueph/strawberry-picking-rpi): A real-time ML + robotics integration using Raspberry Pi Programmed using ROS2 Jazzy and Python.
-- 📌 [**Netflix Data Cleaning & Visualization**](#): Basic data wrangling, visualization, and storytelling with Python & pandas *(coming soon)*
+- 📌 [**Spotify Listening History Analysis**](#) *(coming soon)*  
+  A deep-dive analysis into years of personal Spotify usage. Goes beyond basic stats to extract behavior-based insights on platform habits, skip patterns, session dynamics, discovery preferences, and more.
 
 ---
 
@@ -47,11 +49,13 @@ Here are a few projects that highlight what I do:
 
 ---
 
-## ☕ Fun Facts
+## ☕ Fun Facts (Beyond Coding)
 
-- 🔌 I once programmed a robotic arm using Arduino + ROS!
-- 🎵 I enjoy coding while listening to lo-fi and jazz
-- 🌱 Currently building a 60-day data engineering portfolio challenge
+- 🎶 My guilty pleasure playlist? Full of 2010–2018 nostalgia — 1D, The Vamps, Taylor Swift, Little Mix… and yes, some K-pop too.
+- 🎬 Total geek for superhero movies — DC or Marvel? I say both. Midnight premieres? Count me in.
+- 😂 I unwind with sitcoms — the older, the cheesier, the better. (Friends, HIMYM, Modern Family, Brooklyn Nine-Nine!)
+- 📱 I’ve tried building productivity systems I never stick to (but hey, Notion dashboards are ✨ aesthetic).
+- 🌍 If I weren’t coding, I’d probably be storyboarding a webtoon or writing movie reviews.
 
 ---
 
