@@ -37,8 +37,8 @@ Here are a few projects that highlight what I do:
 - 📌 [**SAT Score Analysis**](https://github.com/jp-asadon/sat_scores)  
   Cleaned and analyzed NYC SAT data from Kaggle. Includes insights like top boroughs in verbal scores, racial distribution, average scores by borough, and school enrollment statistics.
 - 📌 [**Strawberry Disease Detection with YOLOv5 + ROS2**](https://github.com/ianueph/strawberry-picking-rpi): A real-time ML + robotics integration using Raspberry Pi Programmed using ROS2 Jazzy and Python.
-- 📌 [**Spotify Listening History Analysis**](#) *(coming soon)*  
-  A deep-dive analysis into years of personal Spotify usage. Goes beyond basic stats to extract behavior-based insights on platform habits, skip patterns, session dynamics, discovery preferences, and more.
+- 📌 [**Spotify Listening History Analysis**](https://github.com/jp-asadon/spotify_analysis)
+  A deep-dive analysis into years of personal Spotify usage and user behavior based on detailed playback history. This project analyzes trends across time, artist and track popularity, skippability, and how listening habits changed during the COVID-19 lockdown.
 
 ---
 
